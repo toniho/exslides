@@ -1,0 +1,13 @@
+.r-slides-container img {
+  max-width:800px;
+  width:100%;
+  display:block;
+  float:left;
+  opacity:0.4;
+  -webkit-transition: opacity .5s; /* Safari */    
+  transition: opacity .5s;
+}
+
+.r-slides-container img.active {
+  opacity:1;
+}

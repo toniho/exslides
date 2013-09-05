@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: #212121;
+}
+
+body {
+  color: #aaa;
+  font: 14px/20px Helvetica, Arial, sans-serif;
+  margin: 20px auto 0;
+  text-align: center;
+  text-shadow: 0 -2px 1px #000;
+  -webkit-font-smoothing: antialiased;
+  }
+
+h1 {
+  font: 40px/60px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fff;
+  font-weight: 200;
+  }
+
+#slides {
+  width:100%;
+  overflow:hidden;
+}
+#slides2 {
+  width:1000px;
+  margin:auto;
+  overflow:hidden;
+}
